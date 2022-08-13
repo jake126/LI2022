@@ -1,4 +1,4 @@
-# LI2022
+# Love Island Data Storage
 Love Island Twitter data collection for the 2021 and 2022 series.
 
 Data was collected from a daily 25k scrape of tweets featuring the keywords "Love Island" or "#LoveIsland" over both series, with daily collections from 
